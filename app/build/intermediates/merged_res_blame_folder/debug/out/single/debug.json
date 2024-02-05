@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xhdpi_encore_logo_round.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xhdpi/encore_logo_round.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_future.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/future.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_estes.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/estes.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xxhdpi_encore_logo_foreground.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xxhdpi/encore_logo_foreground.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_encoreredbackground.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/encoreredbackground.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_menu_24.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/menu_24.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_redindicatorcircle3x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/redindicatorcircle3x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_hamburger.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/hamburger.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/xml_backup_rules.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_genericbarcode.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/genericbarcode.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_chevrondown.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/chevrondown.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_nonconveyable.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/nonconveyable.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_greenindicatorcircle.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/greenindicatorcircle.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_battery0.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/battery0.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_counts.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/counts.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_twss.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/twss.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-hdpi_encore_logo_foreground.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-hdpi/encore_logo_foreground.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_putawayicon1.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/putawayicon1.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_scanner.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/scanner.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_swiftly.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/swiftly.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_redirectproduct.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/redirectproduct.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_keyboard2x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/keyboard2x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_logout3x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/logout3x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_updateencore.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/updateencore.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_reports.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/reports.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_fedex.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/fedex.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_messaging.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/messaging.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_logout2x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/logout2x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_weight.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/weight.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_conveyable.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/conveyable.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_one_up.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/one_up.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_selfservice.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/selfservice.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_baseline_cyclone_24.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/baseline_cyclone_24.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_guitargallery.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/guitargallery.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xxxhdpi_encore_logo_foreground.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xxxhdpi/encore_logo_foreground.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_battery75.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/battery75.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_dk_okay.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/dk_okay.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_encorefloodbackground.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/encorefloodbackground.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_encorelogowhite.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/encorelogowhite.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_receiving2.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/receiving2.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_settings.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/settings.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_redindicatorcircle2x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/redindicatorcircle2x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_noncon.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/noncon.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_settings2x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/settings2x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_baseline_placeholder_image.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/baseline_placeholder_image.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_chevronup.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/chevronup.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_audit.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/audit.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-mdpi_encore_logo_foreground.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-mdpi/encore_logo_foreground.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_qr_code_2_24.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/qr_code_2_24.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-mdpi_encore_logo.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-mdpi/encore_logo.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_battery100.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/battery100.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_shippingtruck.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/shippingtruck.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_baseline_location_on_24.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/baseline_location_on_24.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_shippingscale.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/shippingscale.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_settings3x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/settings3x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_scan_qr_icon.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/scan_qr_icon.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_backbutton.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/backbutton.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_sad_trombone.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/sad_trombone.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_negative_feedback_tone.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/negative_feedback_tone.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_exclamationtrianglesolid.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/exclamationtrianglesolid.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_camera.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/camera.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_pc7ka76qi.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/pc7ka76qi.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_image.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/image.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_qr_code_ryan.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/qr_code_ryan.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_desk_bell.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/desk_bell.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_receiving.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/receiving.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_positive_feedback_tone.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/positive_feedback_tone.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_it_just_works.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/it_just_works.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_battery50.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/battery50.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_redindicatorcircle.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/redindicatorcircle.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xxxhdpi_encore_logo.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xxxhdpi/encore_logo.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_encoredarkbackground.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/encoredarkbackground.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xxxhdpi_encore_logo_round.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xxxhdpi/encore_logo_round.png"
+    },
+    {
+        "merged": "com.sweetwater.encore.app-merged_res-69:/drawable_scan_tracking_image.png.flat",
+        "source": "com.sweetwater.encore.app-main-71:/drawable/scan_tracking_image.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_missingimage.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/missingimage.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_grayindicatorcircle3x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/grayindicatorcircle3x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-hdpi_encore_logo_round.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-hdpi/encore_logo_round.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_ups.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/ups.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_admin.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/admin.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_greenindicatorcircle2x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/greenindicatorcircle2x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_recounts.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/recounts.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_putawayicon.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/putawayicon.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_logout.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/logout.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xhdpi_encore_logo_foreground.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xhdpi/encore_logo_foreground.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_scanner2x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/scanner2x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_turnoffcartlights.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/turnoffcartlights.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_keyboard3x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/keyboard3x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_needhelpbutton.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/needhelpbutton.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-anydpi-v26_encore_logo.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-anydpi-v26/encore_logo.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_scanner3x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/scanner3x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_blackcamera.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/blackcamera.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-hdpi_encore_logo.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-hdpi/encore_logo.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_battery.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/battery.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_greenindicatorcircle3x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/greenindicatorcircle3x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_baseline_all_inbox_24.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/baseline_all_inbox_24.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_depth.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/depth.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_closealert.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/closealert.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_bigcrash.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/bigcrash.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_inventorymanagement.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/inventorymanagement.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_check.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/check.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_keyboard1x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/keyboard1x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_magnifyingglass.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/magnifyingglass.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_lego_yoda.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/lego_yoda.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_bruh.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/bruh.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_pack.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/pack.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_missingproduct.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/missingproduct.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_battery25.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/battery25.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_height.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/height.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xxhdpi_encore_logo_round.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xxhdpi/encore_logo_round.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_iphone.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/iphone.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_urgentsimpletoneloop.wav.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/urgentsimpletoneloop.wav"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_iphone3x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/iphone3x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_testall.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/testall.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xhdpi_encore_logo.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xhdpi/encore_logo.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_baseline_menu_24.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.sweetwater.encore.app-merged_res-69:/drawable_box_audit_icon.png.flat",
+        "source": "com.sweetwater.encore.app-main-71:/drawable/box_audit_icon.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_encorelogo.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/encorelogo.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_width.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/width.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_encoregreenbackground.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/encoregreenbackground.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_toddsavage.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/toddsavage.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_microphone.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/microphone.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xxhdpi_encore_logo.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xxhdpi/encore_logo.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-mdpi_encore_logo_round.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-mdpi/encore_logo_round.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_invoiceprinter.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/invoiceprinter.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_iphone2x.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/iphone2x.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_partspo.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/partspo.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_timescirclesolid.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/timescirclesolid.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_yes.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/yes.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_dollyflatbedsolid.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/dollyflatbedsolid.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-anydpi-v26_encore_logo_round.xml.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-anydpi-v26/encore_logo_round.xml"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_encore_bg.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/encore_bg.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_putawayicon2.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/putawayicon2.png"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_goat.mp3.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/goat.mp3"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/raw_rocket_morphing.json.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/raw/rocket_morphing.json"
+    },
+    {
+        "merged": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-merged_res-69:/drawable_putwall.png.flat",
+        "source": "/Users/administrator/.gradle/daemon/8.0/com.sweetwater.encore.app-main-71:/drawable/putwall.png"
+    }
+]

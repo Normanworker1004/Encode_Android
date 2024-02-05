@@ -1,0 +1,106 @@
+include:
+  - project: "it/devops/ci-templates"
+    file:
+      - "gitlab-deployment.yaml"
+      - "stages/scan/mono_repo_scan.yaml"
+    ref: gl-deploy-v1
+  - template: Security/SAST.gitlab-ci.yml
+
+stages:
+  - build_base
+  - test
+  - build_release
+  - image_scan
+
+variables:
+  BASE_IMAGE_TAG: "$CI_COMMIT_REF_SLUG-v2" # Retrigger pipeline when changing this image version
+
+default:
+  tags:
+    - gcp
+
+build_base_image:
+  extends: .build_default_registry
+  stage: build_base
+  variables:
+    IMAGE_NAME: base
+    IMAGE_TAG: $BASE_IMAGE_TAG
+  # rules:
+  #   - if: $CI_PIPELINE_SOURCE != 'merge_request_event'
+  #     changes:
+  #       - DockerfileBase
+  #       - Gemfile
+  #       - Gemfile.lock
+
+unit_tests:
+  image: gitlab-registry.sweetwater.com/it/apps/native/mobile/encore-android/base:$BASE_IMAGE_TAG
+  stage: test
+  script:
+    - bundle install
+    - bundle exec fastlane test
+
+.build_release:
+  image: gitlab-registry.sweetwater.com/it/apps/native/mobile/encore-android/base:$BASE_IMAGE_TAG
+  stage: build_release
+  secrets: # vault secret at secrets.sweetwater.com
+    STORE_PASSWORD:
+      vault: "${VAULT_ROOT_DIR}/${CI_PROJECT_PATH}/secrets/STORE_PASSWORD@secret"
+      file: false
+    KEY_PASSWORD:
+      vault: "${VAULT_ROOT_DIR}/${CI_PROJECT_PATH}/secrets/KEY_PASSWORD@secret"
+      file: false
+    KEY_ALIAS:
+      vault: "${VAULT_ROOT_DIR}/${CI_PROJECT_PATH}/secrets/KEY_ALIAS@secret"
+      file: false
+    KEYSTORE:
+      vault: "${VAULT_ROOT_DIR}/${CI_PROJECT_PATH}/secrets/KEYSTORE@secret"
+      file: false
+  tags:
+    - kaniko
+  artifacts:
+    paths:
+      - "app/build/outputs/apk/release/*.apk"
+      - "app/build/outputs/apk/debug/*.apk"
+
+build_release_dev:
+  extends: .build_release
+  variables:
+    VAULT_ROOT_DIR: "dev"
+  script:
+    - echo ${KEYSTORE} | base64 -d > app/keystore.jks
+    - echo "storePassword=${STORE_PASSWORD}" >> keystore.properties
+    - echo "keyAlias=${KEY_ALIAS}" >> keystore.properties
+    - echo "keyPassword=${KEY_PASSWORD}" >> keystore.properties
+    - bundle install
+    - bundle exec fastlane build_debug
+  environment:
+    name: dev
+    deployment_tier: development
+  rules:
+    - if: $CI_COMMIT_BRANCH == "develop"
+
+build_release_prod:
+  extends: .build_release
+  variables:
+    VAULT_ROOT_DIR: "prod"
+  script:
+    - echo ${KEYSTORE} | base64 -d > app/keystore.jks
+    - echo "storePassword=${STORE_PASSWORD}" >> keystore.properties
+    - echo "keyAlias=${KEY_ALIAS}" >> keystore.properties
+    - echo "keyPassword=${KEY_PASSWORD}" >> keystore.properties
+    - bundle install
+    - bundle exec fastlane build_release
+  environment:
+    name: prod
+    deployment_tier: production
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"
+
+sast:
+  stage: image_scan
+  before_script:
+    - echo "overrides before_script to ignore fastlane config"
+
+spotbugs-sast:
+  variables:
+    COMPILE: "false"

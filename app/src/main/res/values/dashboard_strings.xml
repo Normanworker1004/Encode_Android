@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- String used for Scan Serial Number Screen, this screen is not used and will be deleted in later commit -->
+    <string name="dashboard_scan_serial_no_top_bar_menu_label">Scan Serial Nbr</string>
+
+    <string name="dashboard_admin_moves_title">Admin Moves</string>
+    <string name="dashboard_background_encore_image_content_description">Background Encore Image</string>-->
+    <string name="dashboard_customer_pickup_title">Customer Pickup</string>
+    <string name="dashboard_cycle_count_title">Cycle Count</string>
+    <string name="dashboard_nonconpicking_title">NonConPicking</string>
+    <string name="dashboard_pack_audit_title">Pack Audit</string>
+    <string name="dashboard_pickmod_scanner_title">Pickmod Scanner</string>
+    <string name="dashboard_box_audit_title">Box Audit</string>
+    <string name="dashboard_take_a_photo_title">Take a Photo</string>
+    <string name="dashboard_product_recount_title">Product Recounts</string>
+    <string name="dashboard_receive_by_item_title">Receive by Item</string>
+    <string name="dashboard_receive_po_title">Receive PO</string>
+    <string name="dashboard_scan_qr_code_prompt_error">Please scan QR in Location or UPC screen.</string>
+    <string name="dashboard_scan_upcs_label">Scan UPCs</string>
+    <string name="dashboard_top_bar_menu_label">Home</string>
+</resources>

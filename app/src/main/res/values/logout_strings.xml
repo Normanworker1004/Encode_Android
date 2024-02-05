@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logout_log_out_label">Logout</string>
+    <string name="logout_something_wrong_try_again_error">Something is wrong. Please try again later.</string>
+    <string name="logout_unable_log_out_error">Unable to logout. Please try again.</string>
+    <string name="logout_unable_sign_out_employee_error">Unable to sign out employee. Please try again.</string>
+</resources>

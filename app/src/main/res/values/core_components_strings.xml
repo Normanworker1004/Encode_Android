@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="core_components_cancel_button">CANCEL</string>
+    <string name="core_components_check_mark_button_value">\u2713</string>
+    <string name="core_components_enter_button">Enter</string>
+    <string name="core_components_location_icon_content_description">Location Icon</string>
+    <string name="core_components_manual_entry_label">Manual Entry</string>
+    <string name="core_components_menu_content_description">Menu</string>
+    <string name="core_components_ok_button">OK</string>
+    <string name="core_components_profile_image_content_description">Profile Image</string>
+    <string name="core_components_qr_code_content_description">QR Code</string>
+    <string name="core_components_snackbar_animation_with_hasaction_inline_label">SnackBar Animation with hasAction</string>
+</resources>

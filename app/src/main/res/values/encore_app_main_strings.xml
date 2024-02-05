@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="encore_app_main_app_name">Encore</string>
+    <string name="encore_app_main_background_encore_image_content_description">Background Encore Image</string>
+    <string name="encore_app_main_invalid_input_error">Invalid Input. Kindly check the parameters and try again</string>
+    <string name="encore_app_main_empty_employee_number_input_error">Please enter your Employee Number</string>
+    <string name="encore_app_main_server_error">Server Error. Kindly try again later</string>
+    <string name="encore_app_main_user_data_not_found_in_db_error">User data not found in the database.</string>
+</resources>

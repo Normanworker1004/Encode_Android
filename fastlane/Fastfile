@@ -1,0 +1,39 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:android)
+
+platform :android do
+  desc "Runs all the tests"
+  lane :test do
+    gradle(task: "test")
+  end
+
+  desc "Create and sign a new debug build"
+  lane :build_debug do
+    gradle(tasks: ["clean", "assembleDebug", "bundleDebug"])
+  end
+
+  desc "Create and sign a new release build"
+  lane :build_release do
+    # Need to find a way to commit incrementing the version code or getting the last one.
+    # Otherwise, we will always be incrementing the currently committed value, i.e. 1. 
+    # increment_version_code(
+    #   gradle_file_path: "./app/build.gradle",
+    # )
+
+    gradle(tasks: ["clean", "assembleRelease", "bundleRelease"])
+  end
+end

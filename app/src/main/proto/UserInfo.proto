@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "com.sweetwater.encore";
+option java_multiple_files = true;
+
+message UserInfoMessage {
+  int32 campusId = 1;
+
+  int32 employeeId = 2;
+
+  int32 employeeNumber = 3;
+  string icon = 4;
+  int32 id = 5;
+  string name = 6;
+  int32 personalLocationId = 7;
+  string personalLocationName = 8;
+  int32 role = 9;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_background_encore_image_content_description">Background Encore Image</string>
+    <string name="login_check_mark_button_value">\u2713</string>
+    <string name="login_empty_employee_number_input_error">Please enter your Employee Number</string>
+    <string name="login_enter_employee_number_label">Enter Employee Number</string>
+    <string name="login_error_code_inline_label">Error Code : </string>
+    <string name="login_log_in_label">Login</string>
+    <string name="login_something_wrong_try_again_error">Something is wrong. Please try again later.</string>
+    <string name="login_unable_log_in_error">Unable to login. Please try again.</string>
+    <string name="login_user_data_not_found_in_db_error">User data not found in the database.</string>
+    <string name="login_x_button">X</string>
+    <string name="login_zero_button">0</string>
+</resources>

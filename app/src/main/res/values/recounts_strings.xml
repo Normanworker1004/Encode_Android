@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recounts_barcode_input_hint_text">Barcode</string>
+    <string name="recounts_cancel_action_text">CANCEL</string>
+    <string name="recounts_choose_zone_top_bar_menu_label">Choose Zone</string>
+    <string name="recounts_choose_zone_error">Something went wrong. Error fetching zones</string>
+    <string name="recounts_complete_top_bar_menu_label">Recount Complete</string>
+    <string name="recounts_confirm_action_text">CONFIRM</string>
+    <string name="recounts_dollars_label">Dollars</string>
+    <string name="recounts_enter_barcode_dialog_title">Please enter the barcode.</string>
+    <string name="recounts_enter_quantity_input_hint_text">Product Quantity</string>
+    <string name="recounts_enter_product_upc_dialog_title">Please enter the product UPC.</string>
+    <string name="recounts_enter_recount_quantity_label">Please enter the recount quantity.</string>
+    <string name="recounts_error_code_inline_label">Error Code : </string>
+    <string name="recounts_full_screen_error">Full Screen Error Content</string>
+    <string name="recounts_getting_zone_recounts_error">Something went wrong. Error getting recounts for zone.</string>
+    <string name="recounts_got_it_action_text">Got It</string>
+    <string name="recounts_invalid_barcode_for_product_error">Invalid barcode for product.</string>
+    <string name="recounts_invalid_scanned_location_error">Scanned location is not valid for recount</string>
+    <string name="recounts_items_label">Items</string>
+    <string name="recounts_keyboard_toggle_content_description">Keyboard Toggle</string>
+    <string name="recounts_location_in_balance_label">Location in Balance</string>
+    <string name="recounts_locations_label">Locations</string>
+    <string name="recounts_ok_action_text">OK</string>
+    <string name="recounts_product_recount_top_bar_menu_label">Products to Recount</string>
+    <string name="recounts_scan_location_top_bar_menu_label">Scan Location</string>
+    <string name="recounts_scan_upc_top_bar_menu_label">Scan UPC</string>
+    <string name="recounts_scan_upcs_top_bar_menu_label">Scan UPCs</string>
+    <string name="recounts_scan_upcs_input_hint_text">Product UPC</string>
+    <string name="recounts_serial_no_inline_label">S/N:</string>
+    <string name="recounts_something_wrong_try_again_error">Something went wrong. Please try again later.</string>
+    <string name="recounts_summary_error">Something went wrong. Error getting recounts summary.</string>
+    <string name="recounts_upload_recount_error">Error uploading recount</string>
+    <string name="recounts_variance_confirmed_label">Variance Confirmed</string>
+    <string name="recounts_variance_detected_double_check_count_error">Variance detected for this location. Please double check all counts before tapping \'Got It\'</string>
+    <string name="recounts_zone_default_label">Zone</string>
+    <string name="recounts_no_products_remaining_label">No remaining products to recount</string>
+    <string name="recounts_serial_number_mismatch_error">Scanned serial number does not match expected serial number for this product</string>
+    <string name="recounts_serial_number_prompt">Please enter the serial number</string>
+    <string name="recounts_serial_number_hint">Serial Number</string>
+    <string name="recounts_want_to_count_additional_product_at_location_label">Do you want to recount additional product here?</string>
+</resources>

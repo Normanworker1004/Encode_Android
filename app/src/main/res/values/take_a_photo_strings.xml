@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="take_a_photo_enter_product_upc_no_serial">Please enter the product UPC number.</string>
+    <string name="take_a_photo_scan_upc_hint">Product UPC number</string>
+    <string name="take_a_photo_prompt">Scan a purchase order number, vendor compliance code, or other tag to begin.</string>
+    <string name="take_a_photo_description">Tap to enter a description…</string>
+    <string name="take_a_photo_capture_image_top_bar_menu_label">Capture Image</string>
+    <string name="take_a_photo_capture_submit">Submit to GDS</string>
+    <string name="take_a_photo_capture_show_camera">Tap To Take Photo</string>
+    <string name="take_a_photo_scan_upc_top_bar_menu_label">Scan Tag</string>
+    <string name="take_a_photo_submit">Submit to GDS</string>
+    <string name="enter_product_upc_label">Enter a UPC number</string>
+    <string name="take_a_photo_upload_complete">Upload Complete</string>
+    <string name="take_a_photo_uploaded_label">Photo uploaded to GDS</string>
+    <string name="take_a_photo_take_another">Take Another Photo</string>
+    <string name="take_a_photo_title">Take a Photo</string>
+</resources>

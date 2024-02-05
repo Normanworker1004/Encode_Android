@@ -1,0 +1,60 @@
+syntax = "proto3";
+
+option java_package = "com.sweetwater.encore";
+option java_multiple_files = true;
+
+message RecountsData {
+  RecountRequest currentRecountRequest = 1;
+  repeated RecountLocation currentRecountLocations = 2;
+}
+
+message RecountRequest {
+  int32 recountRequestId = 1;
+  int32 priority = 2;
+  int32 requestedByEmployee = 3;
+  string requestedDate = 4;
+  string requestedStatus = 5;
+  string completedAt = 6;
+  RecountProduct product = 7;
+}
+
+message RecountProduct {
+  int32 id = 1;
+  optional string serialNumber = 2;
+  string name = 3;
+  string description = 4;
+  string manufacturer = 5;
+  string imageURL = 6;
+  repeated string productIdentifiers = 8;
+  repeated ProductBox productBoxes = 9;
+  int32 recountRequestId = 10;
+}
+
+message ProductBox {
+  double cubicInches = 1;
+  double dimensionalWeight = 2;
+  double height = 3;
+  int32 id = 4;
+  double length = 5;
+  bool normallyShipAlone = 6;
+  string note = 7;
+  double weight = 8;
+  double width = 9;
+}
+
+message RecountLocation {
+  int32 recountLocationId = 1;
+  int32 priority = 2;
+  Location location = 3;
+  optional string note = 4;
+  optional int32 countedByEmployee = 5;
+  optional int32 expectedQuantity = 6;
+  optional int32 countedQuantity = 7;
+  optional string countStartAt = 8;
+  optional string countCompletedAt = 9;
+}
+
+message Location {
+  int32 id = 1;
+  string name = 2;
+}

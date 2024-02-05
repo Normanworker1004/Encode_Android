@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="box_audit_top_bar_menu_label">Scan Tracking</string>
+    <string name="box_audit_scan_tracking_image_description">Scan Tracking image</string>
+</resources>

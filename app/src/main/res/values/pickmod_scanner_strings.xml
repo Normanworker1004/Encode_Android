@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pickmod_scanner_background_encore_image_content_description">Background Encore Image</string>
+    <string name="pickmod_scanner_barcode_input_hint_text">Barcode</string>
+    <string name="pickmod_scanner_cart_scanner_top_bar_menu_label">Cart Scanner</string>
+    <string name="pickmod_scanner_enter_barcode_dialog_title">Please enter the barcode.</string>
+    <string name="pickmod_scanner_invalid_cart_qr_code_inline_error">Invalid Cart QR Code</string>
+    <string name="pickmod_scanner_keyboard_toggle_content_description">Keyboard Toggle</string>
+    <string name="pickmod_scanner_profile_image_content_description">Profile Image</string>
+    <string name="pickmod_scanner_scan_cart_qr_code_content_description">Please Scan Cart QR Code</string>
+    <string name="pickmod_scanner_scan_cart_qr_code_top_bar_menu_label">Scan Cart QR Code</string>
+    <string name="pickmod_scanner_reconnecting_please_wait_error">Reconnecting, please wait</string>
+    <string name="pickmod_scanner_cart_scanner_no_internet_message">Please ensure you have connection before continuing.</string>
+</resources>
